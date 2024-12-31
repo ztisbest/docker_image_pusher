@@ -1,1 +1,1 @@
-vllm/vllm-openai:latest
+cheney36/foundationpose:latest
